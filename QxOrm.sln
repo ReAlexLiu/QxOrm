@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QxOrm", "QxOrm.vcxproj", "{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Debug|Win32.Build.0 = Debug|Win32
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Debug|x64.ActiveCfg = Debug|x64
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Debug|x64.Build.0 = Debug|x64
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Release|Win32.ActiveCfg = Release|Win32
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Release|Win32.Build.0 = Release|Win32
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Release|x64.ActiveCfg = Release|x64
+		{5FF0531B-60AF-3B74-B47D-E4AE1372FC30}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A94E05EC-80BA-43BC-988B-B6A8CC71A8A6}
+	EndGlobalSection
+EndGlobal
