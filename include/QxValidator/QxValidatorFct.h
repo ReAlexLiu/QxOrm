@@ -90,7 +90,7 @@ struct QxValidator_Helper_Container
       qx::QxInvalidValueX invalidValues; long lIndex = 0;
       for (typename T::iterator it = t.begin(); it != t.end(); ++it)
       {
-         invalidValues.setCurrentPath("[" + QString::number(lIndex) + "]");
+         invalidValues.setCurrentPath(QStringLiteral("[%1]").arg(lIndex));
          invalidValues.insert(validateItem((* it), group));
          lIndex++;
       }
